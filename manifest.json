@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "minimum_supported_version": "0.4.1",
+  "version": "0.4.2",
+  "minimum_supported_version": "0.4.2",
   "project_schema_version": "1.0",
   "local_database_schema_version": "1.0",
   "mandatory": true,
@@ -15,9 +15,9 @@
   },
   "packages": {
     "macos-arm64": {
-      "url": "https://github.com/Mikalakis/metascore-releases/releases/download/v0.4.1/metaSCORE-0.4.1-arm64.zip",
-      "sha256": "f86f155dd93bd691777722bde03bd926c8041854106bd3efde2fe98096e79493"
+      "url": "https://github.com/Mikalakis/metascore-releases/releases/download/v0.4.2/metaSCORE-0.4.2-arm64.zip",
+      "sha256": "bf450d25d888098c06ded0b59350b7cb4b3431a772c657aaaa2acf2a008d3877"
     }
   },
-  "signature": "8YepWZXgJunDOSuQewULKVZPS21oxRbBBiCz7K3FMeKVuCP/pi/bp0aSrxq/Od11OOCJye67HGuAyNejXCHpDg=="
+  "signature": "aaGCUBvG3dFAKbXFAXt3aWBEegU5JC2BVXkPLwrAlslmMrjOKOugnZB3Tvq+FZ6R/UpkSjQIJP+/dEUVN2ndCg=="
 }
