@@ -1,0 +1,23 @@
+{
+  "version": "0.4.0",
+  "minimum_supported_version": "0.4.0",
+  "project_schema_version": "1.0",
+  "local_database_schema_version": "1.0",
+  "mandatory": true,
+  "release_notes": [
+    "Pełny proces rozliczenia produkcji: import, segregacja, weryfikacja danych, wynik i audyt.",
+    "Konta z akceptacją administratora, lokalnie szyfrowane sesje i minimalne statystyki użycia.",
+    "Obowiązkowe, podpisane aktualizacje i bezpieczna praca na współdzielonym folderze Google Drive."
+  ],
+  "minimum_system_versions": {
+    "macos": "12.0",
+    "windows": "10"
+  },
+  "packages": {
+    "macos-arm64": {
+      "url": "https://github.com/Mikalakis/metascore-releases/releases/download/v0.4.0/metaSCORE-0.4.0-arm64.zip",
+      "sha256": "3dfef6c0f164d8b17f60cebbd43ad2e500c7e2765b8855f54084ebbadb22014b"
+    }
+  },
+  "signature": "27m88lrTr02XZDbcdPpra1+N7Jg4xho3gZHk5UW7eogUdNyFbWCDPBgRqW4jAqILgpVuzK/+DbpzPVoSadZsDA=="
+}
