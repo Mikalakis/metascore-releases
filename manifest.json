@@ -16,8 +16,12 @@
   "packages": {
     "macos-arm64": {
       "url": "https://github.com/Mikalakis/metascore-releases/releases/download/v0.4.0/metaSCORE-0.4.0-arm64.zip",
-      "sha256": "3dfef6c0f164d8b17f60cebbd43ad2e500c7e2765b8855f54084ebbadb22014b"
+      "sha256": "7636b4a0f5a25ae84ceb23549b0a648d4bc476416ceab70dc38627301eb3595a"
+    },
+    "macos-x64": {
+      "url": "https://github.com/Mikalakis/metascore-releases/releases/download/v0.4.0/metaSCORE-0.4.0-x64.zip",
+      "sha256": "fa74ce6cd7edb19a8c08a5c3238b2a296061f2189ca2a9cdc52f83866c8633b7"
     }
   },
-  "signature": "27m88lrTr02XZDbcdPpra1+N7Jg4xho3gZHk5UW7eogUdNyFbWCDPBgRqW4jAqILgpVuzK/+DbpzPVoSadZsDA=="
+  "signature": "pKHZsfoKulsru5CIIiIn/3w3MIb/SSgiKTKtGXqE9kw3mlQJRSloMSs+vH7IF+X/zef1slTc4kI3UkhSe8AlDg=="
 }
