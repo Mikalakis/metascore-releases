@@ -1,23 +1,24 @@
 {
-  "version": "0.4.2",
-  "minimum_supported_version": "0.4.2",
+  "version": "0.4.4",
+  "minimum_supported_version": "0.4.4",
   "project_schema_version": "1.0",
   "local_database_schema_version": "1.0",
   "mandatory": true,
   "release_notes": [
-    "Pełny proces rozliczenia produkcji: import, segregacja, weryfikacja danych, wynik i audyt.",
-    "Konta z akceptacją administratora, lokalnie szyfrowane sesje i minimalne statystyki użycia.",
-    "Obowiązkowe, podpisane aktualizacje i bezpieczna praca na współdzielonym folderze Google Drive."
+    "Poprawione zabezpieczenie logowania i obowiązkowych aktualizacji.",
+    "Poprawione statystyki sesji oraz blokada lokalnej edycji projektu.",
+    "Potwierdzanie podziału PDF przed wysłaniem pojedynczych dokumentów do AI.",
+    "Instalator bez dokumentów produkcyjnych; zachowanie istniejących projektów.",
+    "Google Drive: pracujcie kolejno, nie równocześnie. Przed przekazaniem zamknij projekt i poczekaj na pełną synchronizację obu laptopów."
   ],
   "minimum_system_versions": {
-    "macos": "12.0",
-    "windows": "10"
+    "macos": "13.0"
   },
   "packages": {
     "macos-arm64": {
-      "url": "https://github.com/Mikalakis/metascore-releases/releases/download/v0.4.2/metaSCORE-0.4.2-arm64.zip",
-      "sha256": "bf450d25d888098c06ded0b59350b7cb4b3431a772c657aaaa2acf2a008d3877"
+      "url": "https://github.com/Mikalakis/metascore-releases/releases/download/v0.4.4/metaSCORE-0.4.4-arm64.zip",
+      "sha256": "f8e8a872935fdce4ded82cf1726fde05836cbfdbbbc10b744581bf3841d7d9ad"
     }
   },
-  "signature": "aaGCUBvG3dFAKbXFAXt3aWBEegU5JC2BVXkPLwrAlslmMrjOKOugnZB3Tvq+FZ6R/UpkSjQIJP+/dEUVN2ndCg=="
+  "signature": "n9YU8R0SbCPIqP3LH7RGmsnnnd+MLAVEdpW+hG9wKLRpa+YrgQRpJFJhU/9WyLjRoIs62OWQe4k8p5uOktFyAA=="
 }
